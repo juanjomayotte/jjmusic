@@ -194,5 +194,8 @@ footer p {
   #guitars-separator {
     height:20vw;
   }
+  #video {
+    max-width: 60vw;
+  }
 }
 
