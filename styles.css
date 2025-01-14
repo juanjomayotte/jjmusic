@@ -98,10 +98,10 @@ p {
 
 #video-container {
   display: flex;
-  margin-bottom: 2rem
+  margin-bottom: 2rem;
 }
 
-#video {
+iframe {
   margin: 1rem auto;
 }
 
