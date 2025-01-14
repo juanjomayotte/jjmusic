@@ -2,6 +2,8 @@
 
 Welcome to the repository for **JJ Music**, a personal website showcasing the musical journey, skills, and services of Juan José, a versatile musician with expertise in guitar, vocals, composition, production, and music education.
 
+You can see the result in https://juanjomayotte.github.io/jjmusic/ .
+
 ## Description
 This project is a static website built from scratch using HTML, CSS, and JavaScript to provide an engaging platform for visitors to learn more about Juan José's musical background, professional experience, and teaching philosophy. The website features a modern and responsive design, ensuring an optimal user experience across all devices.
 
@@ -23,11 +25,11 @@ To get started with the website:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/juanjomayotte/jj-music.git
+   git clone https://github.com/juanjomayotte/jjmusic.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd jj-music
+   cd jjmusic
    ```
 3. Open `index.html` in your browser to view the website.
 
